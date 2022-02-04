@@ -1,7 +1,7 @@
 # circus.Circus
 The circus.Circus Project
 
-Now changed according to lecture
+Now changed according to lecture things
 
 ### Credits
 
