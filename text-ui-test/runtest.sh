@@ -12,6 +12,7 @@ then
     rm ACTUAL.TXT
 fi
 
+# this does not work
 # compile the code into the bin folder, terminates if error occurred
 if ! javac -cp ../src -Xlint:none -d ../bin ../src/main/java/circus/
 then
